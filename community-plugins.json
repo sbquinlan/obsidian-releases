@@ -4586,6 +4586,13 @@
         "description": "Opens a modal with scrollable content of all documents that contain a specific tag or tags.",
         "repo": "mgeduld/obsidian-tagged-documents-viewer"
     },
+	{
+        "id": "obsidian-handlebars",
+        "name": "Obsidian Handlebars Template Plugin",
+        "author": "Sean Quinlan",
+        "description": "This is a plugin for Obsidian that adds support for handlebars template blocks in notes.",
+        "repo": "sbquinlan/obsidian-handlebars"
+    },
     {
         "id": "simple-note-review",
         "name": "Simple Note Review",
